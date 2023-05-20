@@ -1,3 +1,8 @@
+# Currículo
+
+Para visualizar o currículo, acesse: https://syauler.github.io/curriculo-dio-me/
+
+
 # Curriculum Vitae Online
 
 Sejam todos bem vindos ao projeto de Curriculum Vitae Online oferecidos pela Digital Innovation One.
